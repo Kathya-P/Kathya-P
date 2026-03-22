@@ -1,6 +1,6 @@
-# Hola, soy Kathya! 👩‍💻
+# Hola, soy Kathya Pérez! 👩‍💻
 
-Estudiante de Ingeniería en Desarrollo de Software en El Salvador, actualmente en Tercer Año con 20 años de edad :)  
+Estudiante de Ingeniería en Desarrollo de Software en El Salvador, actualmente cursando Tercer Año con 20 años de edad :)  
 Me gusta construir cosas con propósito y seguir aprendiendo en el camino.
 
 ---
