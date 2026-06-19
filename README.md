@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B084CC&width=500&lines=Hi%2C+I'm+Kathya+P%C3%A9rez+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Dev+Student;Building+things+with+purpose+%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
@@ -6,6 +5,14 @@
 ### 👩‍💻 about me
 
 studying software development engineering at **UNICAES** — always coding with music on.
+
+---
+
+### 🏆 trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kathya-P&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -54,6 +61,15 @@ studying software development engineering at **UNICAES** — always coding with 
 
 ---
 
+### 📊 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathya-P&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathya-P&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
 ### 🐍 my contributions
 
 <picture>
@@ -61,12 +77,3 @@ studying software development engineering at **UNICAES** — always coding with 
     srcset="https://raw.githubusercontent.com/Kathya-P/Kathya-P/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Kathya-P/Kathya-P/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathya-P&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathya-P&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kathya-P&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
