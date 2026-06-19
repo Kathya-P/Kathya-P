@@ -8,14 +8,6 @@ studying software development engineering at **UNICAES** — always coding with 
 
 ---
 
-### 🏆 trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kathya-P&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" />
-</p>
-
----
-
 ### 🛠️ tech stack
 
 **languages**
