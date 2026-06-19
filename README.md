@@ -4,7 +4,7 @@
 
 ### 👩‍💻 about me
 
-studying software development engineering at **UNICAES** — always coding with music on.
+studying software development engineering at **UNICAES** — always coding with coffee & music on.
 
 ---
 
