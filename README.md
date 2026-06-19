@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a001a,100:6d28d9&height=200&section=header&text=Kathya%20Pérez&fontSize=50&fontColor=ffffff&desc=Software%20Dev%20Student&descAlignY=75&descSize=20)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B084CC&width=500&lines=Hi%2C+I'm+Kathya+P%C3%A9rez+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Dev+Student;Building+things+with+purpose+%E2%9C%A8)](https://git.io/typing-svg)
 
