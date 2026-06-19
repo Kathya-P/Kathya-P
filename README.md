@@ -61,3 +61,12 @@ studying software development engineering at **UNICAES** — always coding with 
     srcset="https://raw.githubusercontent.com/Kathya-P/Kathya-P/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Kathya-P/Kathya-P/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathya-P&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathya-P&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kathya-P&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
