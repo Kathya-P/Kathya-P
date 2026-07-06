@@ -53,8 +53,6 @@ studying software development engineering at **UNICAES** — always coding with 
 
 ---
 
----
-
 ### 🐍 my contributions
 
 <picture>
