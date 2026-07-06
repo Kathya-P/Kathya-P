@@ -53,13 +53,6 @@ studying software development engineering at **UNICAES** — always coding with 
 
 ---
 
-### 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathya-P&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathya-P&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
 ---
 
 ### 🐍 my contributions
