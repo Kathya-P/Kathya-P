@@ -41,6 +41,7 @@ studying software development engineering at **UNICAES** — always coding with 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-47A248?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 **tools**
@@ -57,14 +58,6 @@ studying software development engineering at **UNICAES** — always coding with 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-### 📊 stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kathya-P&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
